@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm CS student at KAIST!
-I'm interested in Deep learning🧠 and Cloud services☁️.
+I'm CS student at KAIST!   
+I'm interested in Deep learning🧠 and Cloud services☁️.   
 
-### My carrer path:
-> 2017: Entered KAIST
-> 2019: Proceed with 3 mini projects 
+### My carrer path:    
+> 2017: Entered KAIST   
+> 2019: Proceed with 3 mini projects    
 
 <!--
 **HyunHo99/HyunHo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
