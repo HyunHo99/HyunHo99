@@ -4,7 +4,7 @@ I'm interested in Deep learning🧠 and Cloud services☁️.
 
 ### My carrer path:    
 * **2017**: Entered KAIST   
-* **2021**: Proceed with 3 mini projects   
+* **2021**: I exprienced 3 mini projects 
   1. [Community site application for KAIST EE](https://github.com/HyunHo99/EE-lap-application-Front) Used Technics: Andriod, python, flask
   2. [Online web game(quoridor) page](https://github.com/HyunHo99/quoridor) Used Technics: Javascript, Node.js
   3. [Body fat chacking site](https://github.com/HyunHo99/bodyFatWeb) Used Technics: Deeplearning, python, Javascript
